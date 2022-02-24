@@ -17,6 +17,8 @@ alias gp="git push -u origin HEAD"
 alias gl="git pull"
 alias gd="git diff"
 
+# Kubernetes
+alias k="kubectl"
 
 # Add a new line after each command output
 precmd() {
